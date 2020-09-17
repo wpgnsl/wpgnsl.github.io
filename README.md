@@ -1,5 +1,5 @@
-##  2020-09-17 19:00:32   목요일 
-##### 날씨   -   구름많음
+##  2020-09-17 19:20:43   목요일 
+##### 날씨   -   흐림
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -15,7 +15,7 @@
 <tr align = "right" > <td>나스닥</td><td>11,050.47</td><td>-139.85</td><td>-1.25%</td><td>0</td><td>0</td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>3,385.49</td><td>-15.71</td><td>-0.46%</td><td>0</td><td>0</td><td>0</td>  </tr>
 <tr align = "right" > <td>상해종합</td><td>3,270.44</td><td>-13.49</td><td>-0.41%</td><td>0</td><td>0</td><td>0</td>  </tr>
-<tr align = "right" > <td>인도</td><td>39,009.47</td><td>-293.38</td><td>-0.75%</td><td>0</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>인도</td><td>38,979.85</td><td>-323.0</td><td>-0.82%</td><td>0</td><td>0</td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
@@ -27,7 +27,6 @@
 ----
 ##### 주가
 <table border="1" bordercolor="blue" align = "center" >
-<colgroup> <col width="30%"/> <col width="10%"/> <col width="10%"/></colgroup>
 <tr align = "right" > <td>종목</td><td>현재가</td><td>등락</td><td>전일비</td><td>평단</td><td>희망가</td><td>...</td>  </tr><tr align = "right" > <td>한국전력</td><td>20,450</td><td>-50</td><td>-0.24%</td><td>20,000</td><td>30,000</td><td>1</td>  </tr>
 <tr align = "right" > <td>삼성엔지니어링</td><td>11,250</td><td>-50</td><td>-0.44%</td><td>0</td><td>12,000</td><td>1</td>  </tr>
 <tr align = "right" > <td>CJ CGV</td><td>22,600</td><td>-500</td><td>-2.16%</td><td>0</td><td>36,000</td><td>1</td>  </tr>
