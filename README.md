@@ -1,54 +1,17 @@
-##  2020-09-17 15:36:16   목요일 
-##### 날씨   -   흐림
+##  2020-09-17 17:14:28   목요일 
+##### 날씨   -   구름많음
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
 ##### 지수
-| 종목 | 현재가 | 등락(전일비) | BUY | SELL |   |
-|:---:|---:|---:|---:|---:|---:|
-|코스피|2,406.17|-29.75 .. -1.22%|2,000|3,000|0|
-|코스닥|885.18|-11.1 .. -1.24%|0|0|0|
-
+<table border="1" bordercolor="blue" width ="600" height="300" align = "center" ><tr align = "right" > <td>종목</td><td>현재가</td><td>등락</td><td>전일비%</td><td>BUY</td><td>SELL</td><td>...</td>  </tr><tr align = "right" > <td>코스피</td><td>2,406.17</td><td>-29.75</td><td>-1.22%</td><td>2,000</td><td>3,000</td><td>0</td>  </tr><tr align = "right" > <td>코스닥</td><td>885.18</td><td>-11.1</td><td>-1.24%</td><td>0</td><td>0</td><td>0</td>  </tr></table>
 ----
 ##### 세계
-| 종목 | 현재가 | 등락(전일비) | BUY | SELL |   |
-|:---:|---:|---:|---:|---:|---:|
-|다우|28,032.38|36.78 .. 0.13%|0|0|0|
-|나스닥|11,050.47|-139.85 .. -1.25%|0|0|0|
-|S&P|3,385.49|-15.71 .. -0.46%|0|0|0|
-|상해종합|3,280.29|-3.63 .. -0.11%|0|0|0|
-|인도|39,069.26|-233.59 .. -0.59%|0|0|0|
-
+<table border="1" bordercolor="blue" width ="600" height="300" align = "center" ><tr align = "right" > <td>종목</td><td>현재가</td><td>등락</td><td>전일비%</td><td>BUY</td><td>SELL</td><td>...</td>  </tr><tr align = "right" > <td>다우</td><td>28,032.38</td><td>36.78</td><td>0.13%</td><td>0</td><td>0</td><td>0</td>  </tr><tr align = "right" > <td>나스닥</td><td>11,050.47</td><td>-139.85</td><td>-1.25%</td><td>0</td><td>0</td><td>0</td>  </tr><tr align = "right" > <td>S&P</td><td>3,385.49</td><td>-15.71</td><td>-0.46%</td><td>0</td><td>0</td><td>0</td>  </tr><tr align = "right" > <td>상해종합</td><td>3,270.44</td><td>-13.49</td><td>-0.41%</td><td>0</td><td>0</td><td>0</td>  </tr><tr align = "right" > <td>인도</td><td>39,056.77</td><td>-246.08</td><td>-0.63%</td><td>0</td><td>0</td><td>0</td>  </tr></table>
 ----
 ##### 시장
-| 종목 | 현재가 | 등락(전일비) | BUY | SELL |   |
-|:---:|---:|---:|---:|---:|---:|
-|USD|1,174.0|0.9 .. 0.08%|1,150|0|0|
-|WTI|40.16|1.88 .. 4.91%|29.0|0|0|
-|GOLD|1,960.0|3.9 .. 0.19%|0|0|0|
-
+<table border="1" bordercolor="blue" width ="600" height="300" align = "center" ><tr align = "right" > <td>종목</td><td>현재가</td><td>등락</td><td>전일비%</td><td>BUY</td><td>SELL</td><td>...</td>  </tr><tr align = "right" > <td>USD</td><td>1,173.0</td><td>-0.5</td><td>-0.04%</td><td>1,150</td><td>0</td><td>0</td>  </tr><tr align = "right" > <td>WTI</td><td>40.16</td><td>1.88</td><td>4.91%</td><td>29.0</td><td>0</td><td>0</td>  </tr><tr align = "right" > <td>GOLD</td><td>1,960.0</td><td>3.9</td><td>0.19%</td><td>0</td><td>0</td><td>0</td>  </tr></table>
 ----
 ##### 주가
-| 종목 | 현재가 | 등락(전일비) | 평단 | 희망가 | |
-|:---:|---:|---:|---:|---:|---:|
-|한국전력|20,450|-50 .. -0.24%|25,776|30,000|1|
-|삼성엔지니어링|11,250|-50 .. -0.44%|11,350|12,000|1|
-|CJ CGV|22,600|-500 .. -2.16%|34,961|36,000|1|
-|아모레퍼시픽|167,000|-3,000 .. -1.76%|235,834|240,000|1|
-|한화|26,900|-300 .. -1.1%|25,630|0|2|
-|NAVER|300,500|-6,500 .. -2.12%|148,046|400,000|2|
-|LG화학우|313,500|-31,500 .. -9.13%|203,474|500,000|2|
-|스튜디오드래곤|87,200|200 .. 0.23%|82,300|100,000|2|
-|글로벌럭셔리|12,980|-250 .. -1.89%|9,630|15,000|2|
-|QV미국IT|22,530|-945 .. -4.03%|24,100|30,000|2|
-|호텔신라|76,500|1,900 .. 2.55%|73,008|100,000|3|
-|S-Oil|55,000|-600 .. -1.08%|62,996|100,000|3|
-|LG전자|90,600|0 .. 0.0%|82,255|100,000|3|
-|지역난방공사|35,350|-500 .. -1.39%|34,200|60,000|3|
-|한화|26,900|-300 .. -1.1%|25,288|0|4|
-|삼성전자우|51,000|-700 .. -1.35%|48,370|0|4|
-|한화에어로스페이스|26,700|-400 .. -1.48%|25,779|0|4|
-|한국금융지주|79,500|-1,100 .. -1.36%|62,123|0|4|
-|글로벌럭셔리|12,980|-250 .. -1.89%|12,850|0|4|
-
+<table border="1" bordercolor="blue" width ="600" height="300" align = "center" ><tr align = "right" > <td>종목</td><td>현재가</td><td>등락</td><td>전일비%</td><td>평단</td><td>희망가</td><td>...</td>  </tr><tr align = "right" > <td>한국전력</td><td>20,450</td><td>-50</td><td>-0.24%</td><td>20,000</td><td>30,000</td><td>1</td>  </tr><tr align = "right" > <td>삼성엔지니어링</td><td>11,250</td><td>-50</td><td>-0.44%</td><td>0</td><td>12,000</td><td>1</td>  </tr><tr align = "right" > <td>CJ CGV</td><td>22,600</td><td>-500</td><td>-2.16%</td><td>0</td><td>36,000</td><td>1</td>  </tr><tr align = "right" > <td>아모레퍼시픽</td><td>167,000</td><td>-3,000</td><td>-1.76%</td><td>1,300,000</td><td>240,000</td><td>1</td>  </tr><tr align = "right" > <td>한화</td><td>26,900</td><td>-300</td><td>-1.1%</td><td>20,000</td><td>0</td><td>2</td>  </tr><tr align = "right" > <td>NAVER</td><td>300,500</td><td>-6,500</td><td>-2.12%</td><td>150,000</td><td>400,000</td><td>2</td>  </tr><tr align = "right" > <td>LG화학우</td><td>313,500</td><td>-31,500</td><td>-9.13%</td><td>200,000</td><td>500,000</td><td>2</td>  </tr><tr align = "right" > <td>스튜디오드래곤</td><td>87,200</td><td>200</td><td>0.23%</td><td>78,000</td><td>100,000</td><td>2</td>  </tr><tr align = "right" > <td>글로벌럭셔리</td><td>12,980</td><td>-250</td><td>-1.89%</td><td>10,000</td><td>15,000</td><td>2</td>  </tr><tr align = "right" > <td>QV미국IT</td><td>22,530</td><td>-945</td><td>-4.03%</td><td>20,000</td><td>30,000</td><td>2</td>  </tr><tr align = "right" > <td>호텔신라</td><td>76,500</td><td>1,900</td><td>2.55%</td><td>70,000</td><td>100,000</td><td>3</td>  </tr><tr align = "right" > <td>S-Oil</td><td>55,000</td><td>-600</td><td>-1.08%</td><td>50,000</td><td>100,000</td><td>3</td>  </tr><tr align = "right" > <td>LG전자</td><td>90,600</td><td>0</td><td>0.0%</td><td>60,000</td><td>100,000</td><td>3</td>  </tr><tr align = "right" > <td>지역난방공사</td><td>35,350</td><td>-500</td><td>-1.39%</td><td>30,000</td><td>60,000</td><td>3</td>  </tr><tr align = "right" > <td>한화</td><td>26,900</td><td>-300</td><td>-1.1%</td><td>0</td><td>0</td><td>4</td>  </tr><tr align = "right" > <td>삼성전자우</td><td>51,000</td><td>-700</td><td>-1.35%</td><td>0</td><td>0</td><td>4</td>  </tr><tr align = "right" > <td>한화에어로스페이스</td><td>26,700</td><td>-400</td><td>-1.48%</td><td>0</td><td>0</td><td>4</td>  </tr><tr align = "right" > <td>한국금융지주</td><td>79,500</td><td>-1,100</td><td>-1.36%</td><td>0</td><td>0</td><td>4</td>  </tr><tr align = "right" > <td>글로벌럭셔리</td><td>12,980</td><td>-250</td><td>-1.89%</td><td>0</td><td>0</td><td>4</td>  </tr></table>
 ----
