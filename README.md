@@ -1,4 +1,4 @@
-##  2020-09-19 08:34:06   토요일 
+##  2020-09-19 08:40:12   토요일 
 ##### 날씨   -   구름많음
 <center><img src="../img/naver_weather_week.png"></center>
 ----
@@ -13,11 +13,11 @@
 ##### 세계
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>종목</td><td>현재가</td><td>등락</td><td>전일비</td><td>BUY</td><td>SELL</td><td>...</td>  </tr>
-<tr align = "right" > <td>다우</td><td>27,657.42</td><td>-244.56</td><td><font size="3" color="blue" >-0.88%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
-<tr align = "right" > <td>나스닥</td><td>10,793.28</td><td>-117.0</td><td><font size="3" color="blue" >-1.07%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>DOW</td><td>27,657.42</td><td>-244.56</td><td><font size="3" color="blue" >-0.88%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>NASDAQ</td><td>10,793.28</td><td>-117.0</td><td><font size="3" color="blue" >-1.07%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>3,319.47</td><td>-37.54</td><td><font size="3" color="blue" >-1.12%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
-<tr align = "right" > <td>상해종합</td><td>3,338.09</td><td>67.65</td><td><font size="3" color="red" >2.07%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
-<tr align = "right" > <td>인도</td><td>38,845.82</td><td>-134.03</td><td><font size="3" color="blue" >-0.34%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>SANGHAI</td><td>3,338.09</td><td>67.65</td><td><font size="3" color="red" >2.07%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>38,845.82</td><td>-134.03</td><td><font size="3" color="blue" >-0.34%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
