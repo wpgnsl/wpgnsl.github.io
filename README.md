@@ -1,5 +1,5 @@
-##  2020-09-18 22:17:22   금요일 
-##### 날씨   -   맑음
+##  2020-09-19 08:18:37   토요일 
+##### 날씨   -   구름많음
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -13,9 +13,9 @@
 ##### 세계
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>종목</td><td>현재가</td><td>등락</td><td>전일비</td><td>BUY</td><td>SELL</td><td>...</td>  </tr>
-<tr align = "right" > <td>다우</td><td>27,901.98</td><td>-130.4</td><td><font size="3" color="blue" >-0.47%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
-<tr align = "right" > <td>나스닥</td><td>10,910.28</td><td>-140.19</td><td><font size="3" color="blue" >-1.27%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
-<tr align = "right" > <td>S&P</td><td>3,357.01</td><td>-28.48</td><td><font size="3" color="blue" >-0.84%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>다우</td><td>27,657.42</td><td>-244.56</td><td><font size="3" color="blue" >-0.88%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>나스닥</td><td>10,793.28</td><td>-117.0</td><td><font size="3" color="blue" >-1.07%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>S&P</td><td>3,319.47</td><td>-37.54</td><td><font size="3" color="blue" >-1.12%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
 <tr align = "right" > <td>상해종합</td><td>3,338.09</td><td>67.65</td><td><font size="3" color="red" >2.07%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
 <tr align = "right" > <td>인도</td><td>38,845.82</td><td>-134.03</td><td><font size="3" color="blue" >-0.34%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
 </table>
@@ -24,8 +24,8 @@
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>종목</td><td>현재가</td><td>등락</td><td>전일비</td><td>BUY</td><td>SELL</td><td>...</td>  </tr>
 <tr align = "right" > <td>USD</td><td>1,163.0</td><td>-9.5</td><td><font size="3" color="blue">-0.81%</font></td><td>1,150</td><td>0</td><td>0</td>  </tr>
-<tr align = "right" > <td>WTI</td><td>40.97</td><td>0.81</td><td><font size="3" color="red">2.01%</font></td><td>29.0</td><td>0</td><td>0</td>  </tr>
-<tr align = "right" > <td>GOLD</td><td>1,940.0</td><td>-20.2</td><td><font size="3" color="blue">-1.03%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>WTI</td><td>41.11</td><td>0.14</td><td><font size="3" color="red">0.34%</font></td><td>29.0</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>GOLD</td><td>1,952.0</td><td>12.1</td><td><font size="3" color="red">0.62%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
 </table>
 ----
 ##### 주가
