@@ -1,4 +1,4 @@
-##  2020-09-24 16:06:12   목요일 
+##  2020-09-24 18:05:40   목요일 
 ##### 날씨   -   구름많음
 <center><img src="../img/naver_weather_week.png"></center>
 ----
@@ -16,14 +16,14 @@
 <tr align = "right" > <td>DOW</td><td>26,763.13</td><td>-525.05</td><td><font size="3" color="blue" >-1.92%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
 <tr align = "right" > <td>NASDAQ</td><td>10,632.99</td><td>-330.65</td><td><font size="3" color="blue" >-3.02%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>3,236.92</td><td>-78.65</td><td><font size="3" color="blue" >-2.37%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
-<tr align = "right" > <td>SHANHAI</td><td>3,224.48</td><td>-55.23</td><td><font size="3" color="blue" >-1.68%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>36,912.6</td><td>-755.82</td><td><font size="3" color="blue" >-2.01%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>SHANHAI</td><td>3,223.18</td><td>-56.53</td><td><font size="3" color="blue" >-1.72%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>36,844.66</td><td>-823.76</td><td><font size="3" color="blue" >-2.19%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>종목</td><td>현재가</td><td>등락</td><td>전일비</td><td>BUY</td><td>SELL</td><td>...</td>  </tr>
-<tr align = "right" > <td>USD</td><td>1,173.0</td><td>10.0</td><td><font size="3" color="red">0.86%</font></td><td>1,150</td><td>0</td><td>0</td>  </tr>
+<tr align = "right" > <td>USD</td><td>1,173.0</td><td>10.5</td><td><font size="3" color="red">0.9%</font></td><td>1,150</td><td>0</td><td>0</td>  </tr>
 <tr align = "right" > <td>WTI</td><td>39.93</td><td>0.13</td><td><font size="3" color="red">0.32%</font></td><td>29.0</td><td>0</td><td>0</td>  </tr>
 <tr align = "right" > <td>GOLD</td><td>1,860.0</td><td>-38.8</td><td><font size="3" color="blue">-2.04%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
 </table>
