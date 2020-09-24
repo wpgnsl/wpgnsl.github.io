@@ -1,4 +1,4 @@
-##  2020-09-24 18:16:21   목요일 
+##  2020-09-24 18:27:49   목요일 
 ##### 날씨   -   구름많음  어제보다 2 ° 높아요
 <center><img src="../img/naver_weather_week.png"></center>
 ----
@@ -17,7 +17,7 @@
 <tr align = "right" > <td>NASDAQ</td><td>10,632.99</td><td>-330.65</td><td><font size="3" color="blue" >-3.02%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>3,236.92</td><td>-78.65</td><td><font size="3" color="blue" >-2.37%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>SHANHAI</td><td>3,223.18</td><td>-56.53</td><td><font size="3" color="blue" >-1.72%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>36,823.77</td><td>-844.65</td><td><font size="3" color="blue" >-2.24%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>36,733.3</td><td>-935.12</td><td><font size="3" color="blue" >-2.48%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
