@@ -1,23 +1,13 @@
-<<<<<<< HEAD
-##  2020-09-24 10:19:53   목요일 
+##  2020-09-24 10:26:31   목요일 
 ##### 날씨   -   구름많음
-=======
-##  2020-09-24 08:21:29   목요일 
-##### 날씨   -   흐림
->>>>>>> f40ef4d0d3ae429e4a0ce3a05bfe1bd32e493eae
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
 ##### 지수
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>종목</td><td>현재가</td><td>등락</td><td>전일비</td><td>BUY</td><td>SELL</td><td>...</td>  </tr>
-<<<<<<< HEAD
-<tr align = "right" > <td>KOSPI</td><td>2,301.56</td><td>-31.68</td><td><font size="3" color="blue" >-1.36%</font> </td><td>2,000</td><td>3,000</td><td>0</td>  </tr>
-<tr align = "right" > <td>KOSDAQ</td><td>829.62</td><td>-13.83</td><td><font size="3" color="blue" >-1.64%</font> </td><td>0</td><td>0</td><td>0</td>  </tr>
-=======
-<tr align = "right" > <td>KOSPI</td><td>2,333.24</td><td>-0.0</td><td><font size="3" color="black" >-0.0%</font> </td><td>2,000</td><td>3,000</td><td>0</td>  </tr>
-<tr align = "right" > <td>KOSDAQ</td><td>843.45</td><td>-0.0</td><td><font size="3" color="black" >-0.0%</font> </td><td>0</td><td>0</td><td>0</td>  </tr>
->>>>>>> f40ef4d0d3ae429e4a0ce3a05bfe1bd32e493eae
+<tr align = "right" > <td>KOSPI</td><td>2,308.06</td><td>-25.18</td><td><font size="3" color="blue" >-1.08%</font> </td><td>2,000</td><td>3,000</td><td>0</td>  </tr>
+<tr align = "right" > <td>KOSDAQ</td><td>831.5</td><td>-11.95</td><td><font size="3" color="blue" >-1.42%</font> </td><td>0</td><td>0</td><td>0</td>  </tr>
 </table>
 ----
 ##### 세계
@@ -33,11 +23,7 @@
 ##### 시장
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>종목</td><td>현재가</td><td>등락</td><td>전일비</td><td>BUY</td><td>SELL</td><td>...</td>  </tr>
-<<<<<<< HEAD
-<tr align = "right" > <td>USD</td><td>1,168.0</td><td>5.2</td><td><font size="3" color="red">0.45%</font></td><td>1,150</td><td>0</td><td>0</td>  </tr>
-=======
-<tr align = "right" > <td>USD</td><td>1,163.0</td><td>3.0</td><td><font size="3" color="red">0.26%</font></td><td>1,150</td><td>0</td><td>0</td>  </tr>
->>>>>>> f40ef4d0d3ae429e4a0ce3a05bfe1bd32e493eae
+<tr align = "right" > <td>USD</td><td>1,167.0</td><td>4.8</td><td><font size="3" color="red">0.41%</font></td><td>1,150</td><td>0</td><td>0</td>  </tr>
 <tr align = "right" > <td>WTI</td><td>39.93</td><td>0.13</td><td><font size="3" color="red">0.32%</font></td><td>29.0</td><td>0</td><td>0</td>  </tr>
 <tr align = "right" > <td>GOLD</td><td>1,860.0</td><td>-38.8</td><td><font size="3" color="blue">-2.04%</font></td><td>0</td><td>0</td><td>0</td>  </tr>
 </table>
@@ -45,44 +31,23 @@
 ##### 주가
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>종목</td><td>현재가</td><td>등락</td><td>전일비</td><td>평단</td><td>희망가</td><td>...</td>  </tr>
-<<<<<<< HEAD
 <tr align = "right" > <td>한국전력</td><td>19,950</td><td>-150</td><td><font size="3" color="blue">-0.75%</font></td><td>25,720</td><td><font size="3" color="black">30,000</font></td><td>1</td>  </tr>
-<tr align = "right" > <td>삼성엔지니어.</td><td>10,050</td><td>-300</td><td><font size="3" color="blue">-2.9%</font></td><td>18,935</td><td><font size="3" color="green">12,000</font></td><td>1</td>  </tr>
-<tr align = "right" > <td>CJ CGV</td><td>21,000</td><td>-650</td><td><font size="3" color="blue">-3.0%</font></td><td>34,895</td><td><font size="3" color="black">36,000</font></td><td>1</td>  </tr>
-<tr align = "right" > <td>아모레퍼시픽</td><td>160,000</td><td>-2,500</td><td><font size="3" color="blue">-1.54%</font></td><td>235,350</td><td><font size="3" color="black">240,000</font></td><td>1</td>  </tr>
-<tr align = "right" > <td>한화</td><td>24,450</td><td>-250</td><td><font size="3" color="blue">-1.01%</font></td><td>25,550</td><td><font size="3" color="black">0</font></td><td>2</td>  </tr>
-<tr align = "right" > <td>NAVER</td><td>290,500</td><td>-6,000</td><td><font size="3" color="blue">-2.02%</font></td><td>147,200</td><td><font size="3" color="black">400,000</font></td><td>2</td>  </tr>
-<tr align = "right" > <td>LG화학우</td><td>293,500</td><td>-500</td><td><font size="3" color="blue">-0.17%</font></td><td>202,490</td><td><font size="3" color="black">500,000</font></td><td>2</td>  </tr>
-<tr align = "right" > <td>스튜디오드래.</td><td>82,000</td><td>-2,000</td><td><font size="3" color="blue">-2.38%</font></td><td>81,243</td><td><font size="3" color="black">100,000</font></td><td>2</td>  </tr>
-<tr align = "right" > <td>글로벌럭셔리</td><td>12,320</td><td>-70</td><td><font size="3" color="blue">-0.56%</font></td><td>9,630</td><td><font size="3" color="black">15,000</font></td><td>2</td>  </tr>
+<tr align = "right" > <td>삼성엔지니어.</td><td>10,100</td><td>-250</td><td><font size="3" color="blue">-2.42%</font></td><td>18,935</td><td><font size="3" color="green">12,000</font></td><td>1</td>  </tr>
+<tr align = "right" > <td>CJ CGV</td><td>21,100</td><td>-550</td><td><font size="3" color="blue">-2.54%</font></td><td>34,895</td><td><font size="3" color="black">36,000</font></td><td>1</td>  </tr>
+<tr align = "right" > <td>아모레퍼시픽</td><td>160,500</td><td>-2,000</td><td><font size="3" color="blue">-1.23%</font></td><td>235,350</td><td><font size="3" color="black">240,000</font></td><td>1</td>  </tr>
+<tr align = "right" > <td>한화</td><td>24,550</td><td>-150</td><td><font size="3" color="blue">-0.61%</font></td><td>25,550</td><td><font size="3" color="black">0</font></td><td>2</td>  </tr>
+<tr align = "right" > <td>NAVER</td><td>291,500</td><td>-5,000</td><td><font size="3" color="blue">-1.69%</font></td><td>147,200</td><td><font size="3" color="black">400,000</font></td><td>2</td>  </tr>
+<tr align = "right" > <td>LG화학우</td><td>295,500</td><td>1,500</td><td><font size="3" color="red">0.51%</font></td><td>202,490</td><td><font size="3" color="black">500,000</font></td><td>2</td>  </tr>
+<tr align = "right" > <td>스튜디오드래.</td><td>82,200</td><td>-1,800</td><td><font size="3" color="blue">-2.14%</font></td><td>81,243</td><td><font size="3" color="black">100,000</font></td><td>2</td>  </tr>
+<tr align = "right" > <td>글로벌럭셔리</td><td>12,280</td><td>-110</td><td><font size="3" color="blue">-0.89%</font></td><td>9,630</td><td><font size="3" color="black">15,000</font></td><td>2</td>  </tr>
 <tr align = "right" > <td>QV미국IT</td><td>21,980</td><td>-770</td><td><font size="3" color="blue">-3.38%</font></td><td>22,010</td><td><font size="3" color="black">30,000</font></td><td>2</td>  </tr>
 <tr align = "right" > <td>호텔신라</td><td>73,300</td><td>-2,000</td><td><font size="3" color="blue">-2.66%</font></td><td>72,800</td><td><font size="3" color="black">100,000</font></td><td>3</td>  </tr>
-<tr align = "right" > <td>S-Oil</td><td>50,800</td><td>-700</td><td><font size="3" color="blue">-1.36%</font></td><td>62,842</td><td><font size="3" color="black">100,000</font></td><td>3</td>  </tr>
-<tr align = "right" > <td>LG전자</td><td>90,400</td><td>-800</td><td><font size="3" color="blue">-0.88%</font></td><td>82,022</td><td><font size="3" color="black">100,000</font></td><td>3</td>  </tr>
+<tr align = "right" > <td>S-Oil</td><td>50,900</td><td>-600</td><td><font size="3" color="blue">-1.17%</font></td><td>62,842</td><td><font size="3" color="black">100,000</font></td><td>3</td>  </tr>
+<tr align = "right" > <td>LG전자</td><td>91,000</td><td>-200</td><td><font size="3" color="blue">-0.22%</font></td><td>82,022</td><td><font size="3" color="black">100,000</font></td><td>3</td>  </tr>
 <tr align = "right" > <td>지역난방공사</td><td>34,150</td><td>-800</td><td><font size="3" color="blue">-2.29%</font></td><td>43,590</td><td><font size="3" color="black">60,000</font></td><td>3</td>  </tr>
-<tr align = "right" > <td>KOEDX은행</td><td>5,015</td><td>-55</td><td><font size="3" color="blue">-1.08%</font></td><td>5,155</td><td><font size="3" color="black">6,000</font></td><td>3</td>  </tr>
+<tr align = "right" > <td>KOEDX은행</td><td>5,025</td><td>-45</td><td><font size="3" color="blue">-0.89%</font></td><td>5,155</td><td><font size="3" color="black">6,000</font></td><td>3</td>  </tr>
 <tr align = "right" > <td>삼성전자우</td><td>50,700</td><td>-200</td><td><font size="3" color="blue">-0.39%</font></td><td>48,250</td><td><font size="3" color="black">56,000</font></td><td>4</td>  </tr>
-<tr align = "right" > <td>한화에어로스.</td><td>25,150</td><td>-450</td><td><font size="3" color="blue">-1.76%</font></td><td>25,700</td><td><font size="3" color="black">30,000</font></td><td>4</td>  </tr>
-<tr align = "right" > <td>한국금융지주</td><td>72,700</td><td>700</td><td><font size="3" color="red">0.97%</font></td><td>61,900</td><td><font size="3" color="black">82,000</font></td><td>4</td>  </tr>
-=======
-<tr align = "right" > <td>한국전력</td><td>20,100</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>25,720</td><td><font size="3" color="black">30,000</font></td><td>1</td>  </tr>
-<tr align = "right" > <td>삼성엔지니어.</td><td>10,350</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>18,935</td><td><font size="3" color="green">12,000</font></td><td>1</td>  </tr>
-<tr align = "right" > <td>CJ CGV</td><td>21,650</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>34,895</td><td><font size="3" color="black">36,000</font></td><td>1</td>  </tr>
-<tr align = "right" > <td>아모레퍼시픽</td><td>162,500</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>235,350</td><td><font size="3" color="black">240,000</font></td><td>1</td>  </tr>
-<tr align = "right" > <td>한화</td><td>24,700</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>25,550</td><td><font size="3" color="black">0</font></td><td>2</td>  </tr>
-<tr align = "right" > <td>NAVER</td><td>296,500</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>147,200</td><td><font size="3" color="black">400,000</font></td><td>2</td>  </tr>
-<tr align = "right" > <td>LG화학우</td><td>294,000</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>202,490</td><td><font size="3" color="black">500,000</font></td><td>2</td>  </tr>
-<tr align = "right" > <td>스튜디오드래.</td><td>84,000</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>81,243</td><td><font size="3" color="black">100,000</font></td><td>2</td>  </tr>
-<tr align = "right" > <td>글로벌럭셔리</td><td>12,390</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>9,630</td><td><font size="3" color="black">15,000</font></td><td>2</td>  </tr>
-<tr align = "right" > <td>QV미국IT</td><td>22,750</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>22,010</td><td><font size="3" color="black">30,000</font></td><td>2</td>  </tr>
-<tr align = "right" > <td>호텔신라</td><td>75,300</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>72,800</td><td><font size="3" color="black">100,000</font></td><td>3</td>  </tr>
-<tr align = "right" > <td>S-Oil</td><td>51,500</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>62,842</td><td><font size="3" color="black">100,000</font></td><td>3</td>  </tr>
-<tr align = "right" > <td>LG전자</td><td>91,200</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>82,022</td><td><font size="3" color="black">100,000</font></td><td>3</td>  </tr>
-<tr align = "right" > <td>지역난방공사</td><td>34,950</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>43,590</td><td><font size="3" color="black">60,000</font></td><td>3</td>  </tr>
-<tr align = "right" > <td>KOEDX은행</td><td>5,070</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>5,155</td><td><font size="3" color="black">6,000</font></td><td>3</td>  </tr>
-<tr align = "right" > <td>삼성전자우</td><td>50,900</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>48,250</td><td><font size="3" color="black">56,000</font></td><td>4</td>  </tr>
-<tr align = "right" > <td>한화에어로스.</td><td>25,600</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>25,700</td><td><font size="3" color="black">30,000</font></td><td>4</td>  </tr>
-<tr align = "right" > <td>한국금융지주</td><td>72,000</td><td>0</td><td><font size="3" color="black">0.0%</font></td><td>61,900</td><td><font size="3" color="black">82,000</font></td><td>4</td>  </tr>
->>>>>>> f40ef4d0d3ae429e4a0ce3a05bfe1bd32e493eae
+<tr align = "right" > <td>한화에어로스.</td><td>25,250</td><td>-350</td><td><font size="3" color="blue">-1.37%</font></td><td>25,700</td><td><font size="3" color="black">30,000</font></td><td>4</td>  </tr>
+<tr align = "right" > <td>한국금융지주</td><td>72,400</td><td>400</td><td><font size="3" color="red">0.56%</font></td><td>61,900</td><td><font size="3" color="black">82,000</font></td><td>4</td>  </tr>
 </table>
 ----
