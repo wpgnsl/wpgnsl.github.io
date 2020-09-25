@@ -1,5 +1,5 @@
-##  2020-09-25 16:03:07   금요일 
-##### 날씨   -   어제보다 2 ° 낮아요, 비
+##  2020-09-25 18:05:43   금요일 
+##### 날씨   -   어제보다 1 ° 높아요, 구름많음
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -16,14 +16,14 @@
 <tr align = "right" > <td>DOW</td><td>26,815.44</td><td>52.31</td><td><font size="3" color="red" >0.2%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>NASDAQ</td><td>10,672.27</td><td>39.28</td><td><font size="3" color="red" >0.37%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>3,246.59</td><td>9.67</td><td><font size="3" color="red" >0.3%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>SHANHAI</td><td>3,224.46</td><td>1.29</td><td><font size="3" color="red" >0.04%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>37,155.43</td><td>601.83</td><td><font size="3" color="red" >1.65%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>SHANHAI</td><td>3,219.42</td><td>-3.76</td><td><font size="3" color="blue" >-0.12%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>37,322.89</td><td>769.29</td><td><font size="3" color="red" >2.1%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Price</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
-<tr align = "right" > <td>USD</td><td>1,171.0</td><td>-1.5</td><td><font size="3" color="blue">-0.13%</font></td><td><font size="3" color="black">1,150</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>USD</td><td>1,172.0</td><td>-0.2</td><td><font size="3" color="blue">-0.02%</font></td><td><font size="3" color="black">1,150</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>WTI</td><td>40.31</td><td>0.38</td><td><font size="3" color="red">0.95%</font></td><td><font size="3" color="black">29.0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>GOLD</td><td>1,868.0</td><td>8.4</td><td><font size="3" color="red">0.45%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
