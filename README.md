@@ -1,5 +1,5 @@
-##  2020-10-01 12:08:03   목요일 
-##### 날씨   -   어제보다 4 ° 낮아요, 흐림
+##  2020-10-01 16:02:35   목요일 
+##### 날씨   -   어제보다 1 ° 높아요, 구름많음
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -17,7 +17,7 @@
 <tr align = "right" > <td>NASDAQ</td><td>11,167.51</td><td>82.26</td><td><font size="3" color="red" >0.74%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>3,363.0</td><td>27.53</td><td><font size="3" color="red" >0.83%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>SHANHAI</td><td>3,218.05</td><td>-6.31</td><td><font size="3" color="blue" >-0.2%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>38,067.93</td><td>94.71</td><td><font size="3" color="red" >0.25%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>38,643.19</td><td>575.26</td><td><font size="3" color="red" >1.51%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
