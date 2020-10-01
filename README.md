@@ -1,5 +1,5 @@
-##  2020-10-01 18:05:41   목요일 
-##### 날씨   -   어제 기온과 같음, 흐림
+##  2020-10-02 05:58:29   금요일 
+##### 날씨   -   어제보다 1 ° 높아요, 흐림
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -13,11 +13,11 @@
 ##### 세계
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Point</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
-<tr align = "right" > <td>DOW</td><td>27,781.7</td><td>329.04</td><td><font size="3" color="red" >1.2%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>NASDAQ</td><td>11,167.51</td><td>82.26</td><td><font size="3" color="red" >0.74%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>S&P</td><td>3,363.0</td><td>27.53</td><td><font size="3" color="red" >0.83%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>DOW</td><td>27,816.9</td><td>35.2</td><td><font size="3" color="red" >0.13%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>NASDAQ</td><td>11,326.51</td><td>159.0</td><td><font size="3" color="red" >1.42%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>S&P</td><td>3,380.8</td><td>17.8</td><td><font size="3" color="red" >0.53%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>SHANHAI</td><td>3,218.05</td><td>-6.31</td><td><font size="3" color="blue" >-0.2%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>38,706.95</td><td>639.02</td><td><font size="3" color="red" >1.68%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>38,697.05</td><td>629.12</td><td><font size="3" color="red" >1.65%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
