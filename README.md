@@ -1,5 +1,5 @@
-##  2020-10-01 05:54:24   목요일 
-##### 날씨   -   어제 기온과 같음, 구름많음
+##  2020-10-01 12:08:03   목요일 
+##### 날씨   -   어제보다 4 ° 낮아요, 흐림
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -24,8 +24,8 @@
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Price</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
 <tr align = "right" > <td>USD</td><td>1,169.0</td><td>-1.0</td><td><font size="3" color="blue">-0.09%</font></td><td><font size="3" color="black">1,150</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>WTI</td><td>39.29</td><td>-1.31</td><td><font size="3" color="blue">-3.22%</font></td><td><font size="3" color="black">29.0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>GOLD</td><td>1,894.0</td><td>21.5</td><td><font size="3" color="red">1.14%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>WTI</td><td>40.22</td><td>0.93</td><td><font size="3" color="red">2.36%</font></td><td><font size="3" color="black">29.0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>GOLD</td><td>1,887.0</td><td>-6.8</td><td><font size="3" color="blue">-0.35%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 주가
