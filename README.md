@@ -1,4 +1,4 @@
-##  2020-11-26 17:04:27   목요일 
+##  2020-11-26 17:06:41   목요일 
 ##### 날씨   -   어제보다 3 ° 높아요, 구름많음
 <center><img src="../img/naver_weather_week.png"></center>
 ----
@@ -17,7 +17,7 @@
 <tr align = "right" > <td>NASDAQ</td><td>12,094.4</td><td>57.61</td><td><font size="3" color="red" >0.48%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>3,629.65</td><td>-5.76</td><td><font size="3" color="blue" >-0.16%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>SHANHAI</td><td>3,369.73</td><td>7.41</td><td><font size="3" color="red" >0.22%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>44,018.9</td><td>190.8</td><td><font size="3" color="red" >0.44%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>44,023.46</td><td>195.36</td><td><font size="3" color="red" >0.45%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
