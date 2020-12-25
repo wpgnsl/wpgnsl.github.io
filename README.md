@@ -1,5 +1,5 @@
-##  2020-12-25 12:07:37   금요일 
-##### 날씨   -   어제보다 1° 낮아요맑음  
+##  2020-12-25 16:02:52   금요일 
+##### 날씨   -   어제와 같은 기온맑음  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -16,7 +16,7 @@
 <tr align = "right" > <td>DOW</td><td>30,199.87</td><td>70.04</td><td><font size="3" color="red" >0.23%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>NASDAQ</td><td>12,804.73</td><td>33.62</td><td><font size="3" color="red" >0.26%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>3,703.06</td><td>13.05</td><td><font size="3" color="red" >0.35%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>SHANHAI</td><td>3,382.58</td><td>19.47</td><td><font size="3" color="red" >0.58%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>SHANHAI</td><td>3,393.84</td><td>30.73</td><td><font size="3" color="red" >0.91%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>INDIA</td><td>46,973.54</td><td>529.36</td><td><font size="3" color="red" >1.14%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
