@@ -1,5 +1,5 @@
-##  2021-01-19 20:36:14   화요일 
-##### 날씨   -   어제보다 2° 낮아요맑음  
+##  2021-01-20 05:54:26   수요일 
+##### 날씨   -   어제보다 3° 높아요맑음  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -13,9 +13,9 @@
 ##### 세계
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Point</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
-<tr align = "right" > <td>DOW</td><td>30,814.26</td><td>-177.26</td><td><font size="3" color="blue" >-0.57%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>NASDAQ</td><td>12,998.5</td><td>-114.14</td><td><font size="3" color="blue" >-0.87%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>S&P</td><td>3,768.25</td><td>-27.29</td><td><font size="3" color="blue" >-0.72%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>DOW</td><td>30,945.61</td><td>131.35</td><td><font size="3" color="red" >0.43%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>NASDAQ</td><td>13,195.37</td><td>196.87</td><td><font size="3" color="red" >1.51%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>S&P</td><td>3,803.13</td><td>34.88</td><td><font size="3" color="red" >0.93%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>SHANHAI</td><td>3,566.38</td><td>-29.84</td><td><font size="3" color="blue" >-0.83%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>INDIA</td><td>49,398.29</td><td>834.02</td><td><font size="3" color="red" >1.72%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
