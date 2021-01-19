@@ -1,5 +1,5 @@
-##  2021-01-19 19:15:42   화요일 
-##### 날씨   -   어제보다 1° 높아요맑음  
+##  2021-01-19 19:45:08   화요일 
+##### 날씨   -   어제보다 1° 낮아요맑음  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -17,7 +17,7 @@
 <tr align = "right" > <td>NASDAQ</td><td>12,998.5</td><td>-114.14</td><td><font size="3" color="blue" >-0.87%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>3,768.25</td><td>-27.29</td><td><font size="3" color="blue" >-0.72%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>SHANHAI</td><td>3,566.38</td><td>-29.84</td><td><font size="3" color="blue" >-0.83%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>49,412.43</td><td>848.16</td><td><font size="3" color="red" >1.75%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>49,398.29</td><td>834.02</td><td><font size="3" color="red" >1.72%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
@@ -39,8 +39,9 @@
 <tr align = "right" > <td>NAVER</td><td>308,000</td><td>7,500</td><td><font size="3" color="red">2.5%</font></td><td>147,200</td><td><font size="3" color="orangered">28,600</font></td><td><font size="3" color="black">286,000</font></td>  </tr>
 <tr align = "right" > <td>LG 화학우</td><td>496,000</td><td>13,000</td><td><font size="3" color="red">2.69%</font></td><td>202,490</td><td><font size="3" color="black">384,000</font></td><td><font size="3" color="black">384,000</font></td>  </tr>
 <tr align = "right" > <td>스튜디오드래.</td><td>100,000</td><td>1,400</td><td><font size="3" color="red">1.42%</font></td><td>81,243</td><td><font size="3" color="black">85,200</font></td><td><font size="3" color="black">85,200</font></td>  </tr>
-<tr align = "right" > <td>글로벌럭셔리</td><td>15,150</td><td>175</td><td><font size="3" color="red">1.17%</font></td><td>0</td><td><font size="3" color="black">15,000</font></td><td><font size="3" color="black">10,000</font></td>  </tr>
+<tr align = "right" > <td>글로벌럭셔리</td><td>15,150</td><td>175</td><td><font size="3" color="red">1.17%</font></td><td>15,260</td><td><font size="3" color="orangered">15,000</font></td><td><font size="3" color="black">10,000</font></td>  </tr>
 <tr align = "right" > <td>QV미국IT</td><td>24,435</td><td>300</td><td><font size="3" color="red">1.24%</font></td><td>0</td><td><font size="3" color="black">30,000</font></td><td><font size="3" color="black">20,000</font></td>  </tr>
+<tr align = "right" > <td>카카오</td><td>440,000</td><td>12,500</td><td><font size="3" color="red">2.92%</font></td><td>405,500</td><td><font size="3" color="black">440,000</font></td><td><font size="3" color="black">400,000</font></td>  </tr>
 <tr align = "right" > <td>호텔 신라</td><td>84,300</td><td>600</td><td><font size="3" color="red">0.72%</font></td><td>72,800</td><td><font size="3" color="black">100,000</font></td><td><font size="3" color="black">70,000</font></td>  </tr>
 <tr align = "right" > <td>S-Oil</td><td>73,600</td><td>1,300</td><td><font size="3" color="red">1.8%</font></td><td>62,842</td><td><font size="3" color="black">100,000</font></td><td><font size="3" color="black">50,000</font></td>  </tr>
 <tr align = "right" > <td>LG전자</td><td>148,000</td><td>9,000</td><td><font size="3" color="red">6.47%</font></td><td>82,022</td><td><font size="3" color="black">100,000</font></td><td><font size="3" color="black">60,000</font></td>  </tr>
