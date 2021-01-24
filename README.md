@@ -1,5 +1,5 @@
-##  2021-01-22 16:03:01   금요일 
-##### 날씨   -   어제보다 1° 높아요흐림  
+##  2021-01-25 05:54:40   월요일 
+##### 날씨   -   어제와 같은 기온구름많음  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -13,19 +13,19 @@
 ##### 세계
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Point</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
-<tr align = "right" > <td>DOW</td><td>31,176.01</td><td>-12.37</td><td><font size="3" color="blue" >-0.04%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>NASDAQ</td><td>13,530.92</td><td>73.67</td><td><font size="3" color="red" >0.55%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>S&P</td><td>3,853.07</td><td>1.22</td><td><font size="3" color="red" >0.03%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>SHANHAI</td><td>3,605.84</td><td>-15.43</td><td><font size="3" color="blue" >-0.43%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>49,277.42</td><td>-347.34</td><td><font size="3" color="blue" >-0.7%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>DOW</td><td>30,996.98</td><td>-179.03</td><td><font size="3" color="blue" >-0.57%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>NASDAQ</td><td>13,543.06</td><td>12.14</td><td><font size="3" color="red" >0.09%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>S&P</td><td>3,841.47</td><td>-11.6</td><td><font size="3" color="blue" >-0.3%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>SHANHAI</td><td>3,606.75</td><td>-14.51</td><td><font size="3" color="blue" >-0.4%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>48,878.54</td><td>-746.22</td><td><font size="3" color="blue" >-1.5%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Price</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
-<tr align = "right" > <td>USD</td><td>1,103.0</td><td>2.5</td><td><font size="3" color="red">0.23%</font></td><td><font size="3" color="orangered">1,110</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>WTI</td><td>53.13</td><td>-0.18</td><td><font size="3" color="blue">-0.33%</font></td><td><font size="3" color="black">29.0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>GOLD</td><td>1,865.0</td><td>-0.6</td><td><font size="3" color="blue">-0.03%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>USD</td><td>1,105.0</td><td>4.0</td><td><font size="3" color="red">0.36%</font></td><td><font size="3" color="orangered">1,110</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>WTI</td><td>52.27</td><td>-0.86</td><td><font size="3" color="blue">-1.61%</font></td><td><font size="3" color="black">29.0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>GOLD</td><td>1,856.0</td><td>-9.7</td><td><font size="3" color="blue">-0.51%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 주가
