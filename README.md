@@ -1,5 +1,5 @@
-##  2021-03-01 12:07:59   월요일 
-##### 날씨   -   어제보다 2° 낮아요비  
+##  2021-03-01 16:02:51   월요일 
+##### 날씨   -   어제보다 5° 낮아요비  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -16,8 +16,8 @@
 <tr align = "right" > <td>DOW</td><td>30,932.37</td><td>-469.64</td><td><font size="3" color="blue" >-1.5%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>NASDAQ</td><td>13,192.35</td><td>72.92</td><td><font size="3" color="red" >0.56%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>3,811.15</td><td>-18.19</td><td><font size="3" color="blue" >-0.48%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>SHANHAI</td><td>3,531.7</td><td>22.62</td><td><font size="3" color="red" >0.64%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>49,099.99</td><td>-193.0</td><td><font size="3" color="blue" >-3.8%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>SHANHAI</td><td>3,548.13</td><td>39.05</td><td><font size="3" color="red" >1.11%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>49,623.39</td><td>523.4</td><td><font size="3" color="red" >1.07%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
