@@ -1,5 +1,5 @@
-##  2021-03-17 20:24:53   수요일 
-##### 날씨   -   어제보다 1° 높아요맑음  
+##  2021-03-18 05:54:21   목요일 
+##### 날씨   -   어제보다 2° 높아요맑음  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -13,9 +13,9 @@
 ##### 세계
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Point</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
-<tr align = "right" > <td>DOW</td><td>32,825.95</td><td>-127.51</td><td><font size="3" color="blue" >-0.39%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>NASDAQ</td><td>13,471.57</td><td>11.86</td><td><font size="3" color="red" >0.09%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>S&P</td><td>3,962.71</td><td>-6.23</td><td><font size="3" color="blue" >-0.16%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>DOW</td><td>33,015.37</td><td>189.42</td><td><font size="3" color="red" >0.58%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>NASDAQ</td><td>13,525.2</td><td>53.63</td><td><font size="3" color="red" >0.4%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>S&P</td><td>3,974.12</td><td>11.41</td><td><font size="3" color="red" >0.29%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>SHANHAI</td><td>3,445.55</td><td>-1.18</td><td><font size="3" color="blue" >-0.03%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>INDIA</td><td>49,801.62</td><td>-562.34</td><td><font size="3" color="blue" >-1.12%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
