@@ -1,5 +1,5 @@
-##  2021-04-05 16:03:01   월요일 
-##### 날씨   -   어제보다 2° 높아요맑음  
+##  2021-04-06 05:54:39   화요일 
+##### 날씨   -   어제보다 3° 높아요구름많음  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -13,11 +13,11 @@
 ##### 세계
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Point</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
-<tr align = "right" > <td>DOW</td><td>33,153.21</td><td>171.66</td><td><font size="3" color="red" >0.52%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>NASDAQ</td><td>13,480.11</td><td>233.24</td><td><font size="3" color="red" >1.76%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>S&P</td><td>4,019.87</td><td>46.98</td><td><font size="3" color="red" >1.18%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>DOW</td><td>33,527.19</td><td>373.98</td><td><font size="3" color="red" >1.13%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>NASDAQ</td><td>13,705.59</td><td>225.48</td><td><font size="3" color="red" >1.67%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>S&P</td><td>4,077.91</td><td>58.04</td><td><font size="3" color="red" >1.44%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>SHANHAI</td><td>3,484.39</td><td>18.06</td><td><font size="3" color="red" >0.52%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>48,888.4</td><td>-114.0</td><td><font size="3" color="blue" >-2.28%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>49,159.32</td><td>-870.51</td><td><font size="3" color="blue" >-1.74%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
