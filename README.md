@@ -1,5 +1,5 @@
-##  2021-06-02 16:02:52   수요일 
-##### 날씨   -   어제보다 7° 높아요흐림  
+##  2021-06-03 05:54:41   목요일 
+##### 날씨   -   어제보다 2° 높아요구름많음  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -13,11 +13,11 @@
 ##### 세계
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Point</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
-<tr align = "right" > <td>DOW</td><td>34,575.31</td><td>45.86</td><td><font size="3" color="red" >0.13%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>NASDAQ</td><td>13,736.48</td><td>-12.26</td><td><font size="3" color="blue" >-0.09%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>S&P</td><td>4,202.04</td><td>-2.07</td><td><font size="3" color="blue" >-0.05%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>SHANHAI</td><td>3,594.62</td><td>-30.1</td><td><font size="3" color="blue" >-0.83%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>51,525.68</td><td>-409.2</td><td><font size="3" color="blue" >-0.79%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>DOW</td><td>34,600.38</td><td>25.07</td><td><font size="3" color="red" >0.07%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>NASDAQ</td><td>13,756.33</td><td>19.85</td><td><font size="3" color="red" >0.14%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>S&P</td><td>4,208.12</td><td>6.08</td><td><font size="3" color="red" >0.14%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>SHANHAI</td><td>3,597.14</td><td>-27.58</td><td><font size="3" color="blue" >-0.76%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>51,849.48</td><td>-85.4</td><td><font size="3" color="blue" >-0.16%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
