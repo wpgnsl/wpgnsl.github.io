@@ -1,5 +1,5 @@
-##  2021-09-06 16:03:11   월요일 
-##### 날씨   -   어제보다 2° 낮아요비  
+##  2021-09-07 05:54:51   화요일 
+##### 날씨   -   어제보다 3° 낮아요흐림  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -16,14 +16,14 @@
 <tr align = "right" > <td>DOW</td><td>35,369.09</td><td>-74.73</td><td><font size="3" color="blue" >-0.21%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>NASDAQ</td><td>15,363.52</td><td>32.34</td><td><font size="3" color="red" >0.21%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>4,535.43</td><td>-1.52</td><td><font size="3" color="blue" >-0.03%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>SHANHAI</td><td>3,621.51</td><td>39.77</td><td><font size="3" color="red" >1.11%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>58,286.1</td><td>156.15</td><td><font size="3" color="red" >0.27%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>SHANHAI</td><td>3,621.86</td><td>40.12</td><td><font size="3" color="red" >1.12%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>58,296.91</td><td>166.96</td><td><font size="3" color="red" >0.29%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Price</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
-<tr align = "right" > <td>USD</td><td>1,156.0</td><td>-0.5</td><td><font size="3" color="blue">-0.04%</font></td><td><font size="3" color="black">1,110</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>USD</td><td>1,157.0</td><td>0.0</td><td><font size="3" color="black">0%</font></td><td><font size="3" color="black">1,110</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>WTI</td><td>69.29</td><td>-0.7</td><td><font size="3" color="blue">-1.0%</font></td><td><font size="3" color="black">29.0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>GOLD</td><td>1,830.0</td><td>22.2</td><td><font size="3" color="red">1.22%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
