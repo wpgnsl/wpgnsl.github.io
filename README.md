@@ -1,5 +1,5 @@
-##  2021-09-20 12:07:34   월요일 
-##### 날씨   -   어제보다 1° 낮아요구름많음  
+##  2021-09-20 16:02:51   월요일 
+##### 날씨   -   어제보다 1° 높아요맑음  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -17,7 +17,7 @@
 <tr align = "right" > <td>NASDAQ</td><td>15,043.97</td><td>-137.95</td><td><font size="3" color="blue" >-0.91%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>4,432.99</td><td>-40.76</td><td><font size="3" color="blue" >-0.91%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>SHANHAI</td><td>3,613.97</td><td>6.87</td><td><font size="3" color="red" >0.19%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>59,015.89</td><td>-125.27</td><td><font size="3" color="blue" >-0.21%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>58,854.05</td><td>-161.84</td><td><font size="3" color="blue" >-0.27%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
