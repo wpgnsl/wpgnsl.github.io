@@ -1,5 +1,5 @@
-##  2021-09-20 09:17:05   월요일 
-##### 날씨   -   어제보다 2° 낮아요구름많음  
+##  2021-09-20 12:07:34   월요일 
+##### 날씨   -   어제보다 1° 낮아요구름많음  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -23,7 +23,7 @@
 ##### 시장
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Price</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
-<tr align = "right" > <td>USD</td><td>1,178.0</td><td>5.0</td><td><font size="3" color="red">0.43%</font></td><td><font size="3" color="black">1,110</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>USD</td><td>1,189.0</td><td>15.5</td><td><font size="3" color="red">1.32%</font></td><td><font size="3" color="black">1,110</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>WTI</td><td>71.97</td><td>-0.64</td><td><font size="3" color="blue">-0.88%</font></td><td><font size="3" color="black">29.0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>GOLD</td><td>1,749.0</td><td>-5.2</td><td><font size="3" color="blue">-0.29%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
