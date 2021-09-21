@@ -1,5 +1,5 @@
-##  2021-09-21 12:07:40   화요일 
-##### 날씨   -   어제보다 3° 낮아요맑음  
+##  2021-09-21 16:02:56   화요일 
+##### 날씨   -   어제보다 2° 낮아요맑음  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -17,13 +17,13 @@
 <tr align = "right" > <td>NASDAQ</td><td>14,713.9</td><td>-330.07</td><td><font size="3" color="blue" >-2.19%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>4,357.73</td><td>-75.26</td><td><font size="3" color="blue" >-1.7%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>SHANHAI</td><td>3,613.97</td><td>6.87</td><td><font size="3" color="red" >0.19%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>58,490.93</td><td>-524.96</td><td><font size="3" color="blue" >-0.89%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>58,441.51</td><td>-49.42</td><td><font size="3" color="blue" >-0.08%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Price</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
-<tr align = "right" > <td>USD</td><td>1,189.0</td><td>15.5</td><td><font size="3" color="red">1.32%</font></td><td><font size="3" color="black">1,110</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>USD</td><td>1,184.0</td><td>10.5</td><td><font size="3" color="red">0.89%</font></td><td><font size="3" color="black">1,110</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>WTI</td><td>70.14</td><td>-1.68</td><td><font size="3" color="blue">-2.33%</font></td><td><font size="3" color="black">29.0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>GOLD</td><td>1,761.0</td><td>12.4</td><td><font size="3" color="red">0.7%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
