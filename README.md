@@ -1,5 +1,5 @@
-##  2021-09-22 05:54:41   수요일 
-##### 날씨   -   어제보다 3° 낮아요맑음  
+##  2021-09-22 09:16:51   수요일 
+##### 날씨   -   어제와 같은 기온맑음  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -24,8 +24,8 @@
 <table border="1" bordercolor="blue" align = "center" >
 <tr align = "right" > <td>Item</td><td>Price</td><td>Diff</td><td>Rate</td><td>Buy</td><td>Sell</td><td>...</td>  </tr>
 <tr align = "right" > <td>USD</td><td>1,184.0</td><td>10.5</td><td><font size="3" color="red">0.89%</font></td><td><font size="3" color="black">1,110</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>WTI</td><td>70.14</td><td>-1.68</td><td><font size="3" color="blue">-2.33%</font></td><td><font size="3" color="black">29.0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>GOLD</td><td>1,761.0</td><td>12.4</td><td><font size="3" color="red">0.7%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>WTI</td><td>70.49</td><td>0.35</td><td><font size="3" color="red">0.49%</font></td><td><font size="3" color="black">29.0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>GOLD</td><td>1,776.0</td><td>14.3</td><td><font size="3" color="red">0.81%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 주가
