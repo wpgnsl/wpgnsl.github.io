@@ -1,5 +1,5 @@
-##  2021-09-22 12:07:34   수요일 
-##### 날씨   -   어제보다 1° 낮아요맑음  
+##  2021-09-22 16:02:52   수요일 
+##### 날씨   -   어제와 같은 기온맑음  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -16,8 +16,8 @@
 <tr align = "right" > <td>DOW</td><td>33,919.84</td><td>-50.63</td><td><font size="3" color="blue" >-0.15%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>NASDAQ</td><td>14,746.4</td><td>32.5</td><td><font size="3" color="red" >0.22%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>4,354.19</td><td>-3.54</td><td><font size="3" color="blue" >-0.08%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>SHANHAI</td><td>3,594.97</td><td>-19.0</td><td><font size="3" color="blue" >-0.53%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>59,005.27</td><td>514.34</td><td><font size="3" color="red" >0.88%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>SHANHAI</td><td>3,625.2</td><td>11.23</td><td><font size="3" color="red" >0.31%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>59,033.59</td><td>28.32</td><td><font size="3" color="red" >0.05%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
