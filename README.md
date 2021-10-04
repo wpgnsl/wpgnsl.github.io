@@ -1,5 +1,5 @@
-##  2021-10-04 12:07:36   월요일 
-##### 날씨   -   어제보다 4° 낮아요비  
+##  2021-10-04 16:02:50   월요일 
+##### 날씨   -   어제와 같은 기온흐림  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -17,7 +17,7 @@
 <tr align = "right" > <td>NASDAQ</td><td>14,566.7</td><td>118.12</td><td><font size="3" color="red" >0.82%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>4,357.04</td><td>49.5</td><td><font size="3" color="red" >1.15%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>SHANHAI</td><td>3,568.17</td><td>31.87</td><td><font size="3" color="red" >0.9%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>INDIA</td><td>58,765.58</td><td>-360.78</td><td><font size="3" color="blue" >-0.61%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>INDIA</td><td>59,309.44</td><td>543.86</td><td><font size="3" color="red" >0.93%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
 ##### 시장
