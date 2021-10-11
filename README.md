@@ -1,5 +1,5 @@
-##  2021-10-11 09:17:12   월요일 
-##### 날씨   -   어제보다 10° 낮아요구름많음  
+##  2021-10-11 12:07:39   월요일 
+##### 날씨   -   어제보다 6° 낮아요흐림  
 <center><img src="../img/naver_weather_week.png"></center>
 ----
 ----
@@ -16,7 +16,7 @@
 <tr align = "right" > <td>DOW</td><td>34,746.25</td><td>-8.69</td><td><font size="3" color="blue" >-0.03%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>NASDAQ</td><td>14,579.54</td><td>-74.48</td><td><font size="3" color="blue" >-0.51%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>S&P</td><td>4,391.34</td><td>-8.42</td><td><font size="3" color="blue" >-0.19%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
-<tr align = "right" > <td>SHANHAI</td><td>3,592.17</td><td>24.0</td><td><font size="3" color="red" >0.67%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
+<tr align = "right" > <td>SHANHAI</td><td>3,603.33</td><td>11.16</td><td><font size="3" color="red" >0.31%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 <tr align = "right" > <td>INDIA</td><td>60,059.06</td><td>381.23</td><td><font size="3" color="red" >0.64%</font></td><td><font size="3" color="black">0</font></td><td><font size="3" color="black">0</font></td><td>0</td>  </tr>
 </table>
 ----
